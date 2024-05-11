@@ -28,5 +28,6 @@ At the current state of our project, before further research, we have seen the w
 In conclusion, in response to our research question—whether we could develop a machine learning model that generates coherent and contextually appropriate rap lyrics—we have successfully analyzed and contextualized rap as a genre. Although our generator is relatively simple, the data visualizations reveal deeper patterns and correlations related to the artists and their music. The implications of this research extend to further analysis of identity and language in music. We aim to explore nuances within rap that may be heavily influenced by an artist's upbringing. Additionally, we are interested in investigating whether the language used in lyrics correlates with song popularity. Future inquiries may also explore the possibility of expanding the model to emulate other artists or genres and their unique songwriting styles!
 
 # References
+Dege F., Schwarzer G. (2011). The effect of a music program on phonological awareness in preschoolers. Front. Psychol. 2:124. 10.3389/fpsyg.2011.00124 
 
 # Appendices
