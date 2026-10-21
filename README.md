@@ -1,8 +1,6 @@
 # Final NLP Project Synopsis
 ## Tiffany Nguyen and Gelila Yimtatu
-
-<img src="https://github.com/user-attachments/assets/cfa45bed-ad3b-4cff-bb3f-e5ae281e2a30" width="800">
-<img width="950" height="534" alt="song_notes" src="https://github.com/user-attachments/assets/b0d02ba3-8d25-48ef-96cf-7ad88180715e" />
+<img width="950" height="534" alt="song_notes" src="https://github.com/user-attachments/assets/b0d02ba3-8d25-48ef-96cf-7ad88180715e" /width="800">
 
 # Abstract
 For our final project, we asked ourselves one main question: Can we create a machine learning model that generates coherent and contextually appropriate rap lyrics based on a user-provided prompt? We aimed to explore the realm of rap music and its lyrical structures, starting with collecting a dataset consisting of lyrics from eleven notable rap artists. We first implemented text preprocessing techniques like tokenization, stop-word removal, and stemming to clean and standardize the data. With this, we examined word usage patterns, common phrases, and thematic elements through data visualization. Building on these insights, we created additional functions, such as identifying popular rhymes and generating artist-specific verses. Ultimately, we decided to work with a transformer model and a large language model (LLM) to build a rap lyric generator. We evaluated the generated lyrics and refined the model iteratively by adjusting hyperparameters and improving the data preprocessing methodology. Our final model could generate rap lyrics based on prompts that varied in style and theme. Even certain patterns emerged, highlighting the influence of individual artist styles on the generated text! All in all, we identified that the model could produce coherent verses while maintaining thematic consistency. Further improvements could include incorporating more artist diversity in the dataset for richer outputs and developing a user-friendly interface for broader accessibility.
