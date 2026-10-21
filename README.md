@@ -32,4 +32,3 @@ In conclusion, in response to our research question—whether we could develop a
 # References
 Dege F., Schwarzer G. (2011). The effect of a music program on phonological awareness in preschoolers. Front. Psychol. 2:124. 10.3389/fpsyg.2011.00124 
 
-# Appendices
